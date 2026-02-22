@@ -1,3 +1,6 @@
+# Full dependencies for local development with MedGemma 1.5
+# Requires GPU with 6GB+ VRAM
+# For cloud demo, see requirements.txt
 streamlit>=1.30
 plotly>=5.18
 pandas>=2.0
