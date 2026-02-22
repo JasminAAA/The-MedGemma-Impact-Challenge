@@ -1,0 +1,21 @@
+{
+  "case_id": "case_2",
+  "title": "Case 2 - Single Intervention",
+  "notes": [
+    {
+      "note_id": "c2_n1",
+      "date": "2026-03-01",
+      "text": "Intake visit. PHQ-9: 16. Reports anxiety and poor concentration."
+    },
+    {
+      "note_id": "c2_n2",
+      "date": "2026-03-02",
+      "text": "Started escitalopram 10 mg daily. No therapy initiated at this time."
+    },
+    {
+      "note_id": "c2_n3",
+      "date": "2026-03-25",
+      "text": "Follow-up. PHQ-9: 8. Reports improved mood and energy."
+    }
+  ]
+}

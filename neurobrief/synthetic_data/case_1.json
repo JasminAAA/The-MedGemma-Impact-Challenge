@@ -1,0 +1,26 @@
+{
+  "case_id": "case_1",
+  "title": "Case 1 - Multiple Interventions",
+  "notes": [
+    {
+      "note_id": "c1_n1",
+      "date": "2026-01-05",
+      "text": "Initial visit. Started sertraline 50 mg daily. PHQ-9: 18. Reports depressed mood and insomnia."
+    },
+    {
+      "note_id": "c1_n2",
+      "date": "2026-01-20",
+      "text": "Follow-up. Increased sertraline to 100 mg daily due to persistent symptoms."
+    },
+    {
+      "note_id": "c1_n3",
+      "date": "2026-01-25",
+      "text": "Therapy plan discussed. Started weekly CBT therapy sessions."
+    },
+    {
+      "note_id": "c1_n4",
+      "date": "2026-02-02",
+      "text": "Mood improving. PHQ-9: 10. Less fatigue and better sleep."
+    }
+  ]
+}
