@@ -211,9 +211,7 @@ def detect_attribution_uncertainty(events, assessments, window_days=28):
 
 **Track:** Main track and Agentic Workflow track
 
-**HAI-DEF Model:** MedGemma 1.5 (google/medgemma-1.5-4b-it) 
-
-**MedAsr Model:** only included as part of the architectural design
+**HAI-DEF Model:** MedGemma 1.5 (google/medgemma-1.5-4b-it) && MedAsr: (only included as part of the architectural design)
 
 ### Why This Qualifies for Agentic Workflow Prize
 
