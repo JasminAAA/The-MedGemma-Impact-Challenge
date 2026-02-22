@@ -4,7 +4,7 @@
 
 *Submitted for MedGemma Impact Challenge - Agentic Workflow Prize Track*
 
-[![Demo](https://img.shields.io/badge/Demo-Live-success)](YOUR_STREAMLIT_URL_HERE)
+[![Demo](https://medgemma-impact-challenge-neurobrief.streamlit.app)
 [![Video](https://img.shields.io/badge/Video-Watch-red)](YOUR_YOUTUBE_URL_HERE)
 
 ---
@@ -123,7 +123,7 @@ The demo demonstrates the core MedGemma-powered agentic workflow. Audio ingestio
 
 ### Quick Start (Demo Mode)
 ```bash
-git clone https://github.com/YOUR_USERNAME/neurobrief.git
+git clone https://github.com/JasminAAA/The-MedGemma-Impact-Challenge.git
 cd neurobrief
 pip install -r requirements.txt
 streamlit run app.py
