@@ -208,12 +208,13 @@ def detect_attribution_uncertainty(events, assessments, window_days=28):
 ## Competition Details
 
 **Challenge:** MedGemma Impact Challenge  
-**Track:** Agentic Workflow Prize ($10,000)  
-**HAI-DEF Model:** MedGemma 1.5 (google/medgemma-1.5-4b-it)
+**Track:** Main track and Agentic Workflow track
+**HAI-DEF Model:** MedGemma 1.5 (google/medgemma-1.5-4b-it) 
+**MedAsr Model:** only included as part of the architectural design
 
 ### Why This Qualifies for Agentic Workflow Prize
 
-1. **Multiple Specialized Agents:**
+1. **Multiple Specialised Agents:**
    - Event extraction agent
    - Assessment parsing agent
    - Summary generation agent
@@ -234,7 +235,7 @@ def detect_attribution_uncertainty(events, assessments, window_days=28):
 
 **All demonstrations use synthetic clinical data** created specifically for this project. No actual patient information is used or included.
 
-**Disclaimer:** This is a research prototype for competition submission. It is not a medical device, does not provide clinical advice, and should not be used for real patient care.
+**Disclaimer:** This is a research prototype for a competition submission. It is not a medical device, does not provide clinical advice, and should not be used for real patient care.
 
 ---
 
@@ -276,7 +277,7 @@ Bachelor's in Computers and Artificial Intelligence - Cairo University
 
 This project was developed for the MedGemma Impact Challenge using HAI-DEF models from Google Health AI.
 
-Special thanks to the competition organizers for creating this opportunity to explore agentic applications of medical AI.
+Special thanks to the competition organisers for creating this opportunity to explore agentic applications of medical AI.
 
 ---
 
