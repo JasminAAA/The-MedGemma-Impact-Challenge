@@ -200,8 +200,8 @@ def detect_attribution_uncertainty(events, assessments, window_days=28):
 
 ## Demo
 
-- **📹 Video Demo:** [Add your YouTube link here]
-- **🌐 Live Demo:** [Add your Streamlit Cloud link here]
+- **📹 Video Demo:** [Add YouTube link here]
+- **🌐 Live Demo:** https://medgemma-impact-challenge-neurobrief.streamlit.app
 - **📄 Writeup:** Available in competition submission
 
 ---
@@ -264,7 +264,7 @@ accelerate==0.34.0
 
 **Yasmin Aboubakr (Jasmine)** 
 
-Software Engineer - Swisscom
+Software Engineer - Swisscom Devops Centre
 
 MSc Psychology & Neuroscience of Mental Health - King's College London
 
