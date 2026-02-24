@@ -5,7 +5,7 @@
 *Submitted for MedGemma Impact Challenge - Agentic Workflow Prize Track*
 
 [![Demo](https://img.shields.io/badge/Demo-Live-success)](https://medgemma-impact-challenge-neurobrief.streamlit.app)
-[![Video](https://img.shields.io/badge/Video-Watch-red)](YOUR_YOUTUBE_URL_HERE)
+[![Video](https://img.shields.io/badge/Video-Watch-red)](https://youtu.be/mKrRtPee1Bs)
 [![GitHub](https://img.shields.io/badge/Code-Repository-blue)](https://github.com/JasminAAA/The-MedGemma-Impact-Challenge)
 
 ---
