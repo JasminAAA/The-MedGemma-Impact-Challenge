@@ -156,7 +156,7 @@ Clinical Notes → MedGemma Agentic Pipeline → Structured Timeline
 
 ---
 
-## MedASR Integration (Architectural)
+**MedASR Integration (Architectural)**
 
 **Note:** The current demo focuses on text-based documentation. The full NeuroBrief architecture includes **MedASR** for medical audio transcription, enabling processing of dictated session summaries alongside typed notes.
 
