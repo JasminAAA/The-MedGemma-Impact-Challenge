@@ -5,7 +5,7 @@
 *Submitted for MedGemma Impact Challenge - Agentic Workflow Prize Track*
 
 [![Demo](https://img.shields.io/badge/Demo-Live-success)](https://medgemma-impact-challenge-neurobrief.streamlit.app)
-[![Video](https://img.shields.io/badge/Video-Watch-red)](https://youtu.be/mKrRtPee1Bs)
+[![Video](https://img.shields.io/badge/Video-Watch-red)](https://youtu.be/cces4zkXiAg)
 [![GitHub](https://img.shields.io/badge/Code-Repository-blue)](https://github.com/JasminAAA/The-MedGemma-Impact-Challenge)
 
 ---
@@ -434,12 +434,6 @@ accelerate==0.34.0
 This project was developed for the MedGemma Impact Challenge using HAI-DEF models from Google Health AI.
 
 Special thanks to the competition organizers for creating this opportunity to explore agentic applications of medical AI.
-
----
-
-## License
-
-MIT License
 
 ---
 
